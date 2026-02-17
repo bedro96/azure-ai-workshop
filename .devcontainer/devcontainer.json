@@ -1,10 +1,10 @@
 {
   "name": "Azure AI Workshop",
-  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13",
   
   "features": {
     "ghcr.io/devcontainers/features/python:1": {
-      "version": "3.12",
+      "version": "3.13",
       "installTools": true
     },
     "ghcr.io/devcontainers/features/node:1": {
