@@ -8,7 +8,7 @@ export PATH="$HOME/.local/bin:$PATH"
 
 # Create virtual environment with Python 3.12
 echo "📦 Creating Python virtual environment..."
-uv venv .venv --python 3.12 --seed
+uv venv .venv --seed
 
 # Activate virtual environment
 source .venv/bin/activate
