@@ -10,11 +10,9 @@
 이 저장소는 자동 환경 설정으로 **GitHub Codespaces**에 완전히 구성되어 있습니다!
 
 
-### Repository folk
- Repository를 folk를 하세요.
-
 ### Codespaces 빠른 시작:
 1. 위의 "Open in GitHub Codespaces" 배지를 클릭하세요
+2. 위에서 folk하신 repository를 찾아서 실행을 시켜주세요. 
 2. 자동 설정 완료를 기다리세요 (2-3분)
 3. Azure OpenAI 자격 증명으로 `.env` 파일을 업데이트하세요
 4. 노트북 탐색을 시작하세요!
