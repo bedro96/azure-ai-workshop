@@ -1,5 +1,8 @@
 # Azure OpenAI Workshop (Part #1)
 
+### Repository folk
+ Repository를 folk를 하세요.
+
 ## 🚀 GitHub Codespace Ready!
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main)
@@ -8,7 +11,7 @@
 
 
 ### Repository folk
-Repository를 folk를 하세요.
+ Repository를 folk를 하세요.
 
 ### Codespaces 빠른 시작:
 1. 위의 "Open in GitHub Codespaces" 배지를 클릭하세요
